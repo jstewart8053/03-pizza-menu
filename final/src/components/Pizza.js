@@ -1,5 +1,4 @@
 function Pizza({ pizzaObj }) {
-  console.log(pizzaObj);
 
   // if (pizzaObj.soldOut) return null;
 

@@ -52,7 +52,7 @@ function Menu() {
   return (
     <main className="menu">
       <h2>Our menu</h2>
-
+<Pizza name = 'Pizza Spinaci in'></Pizza>
       {numPizzas > 0 ? (
         <>
           <p>
